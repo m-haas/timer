@@ -1,6 +1,8 @@
 ######
 #timer
 ######
+# based on Aarons answer here:
+# https://stackoverflow.com/questions/41643538/python-capture-user-input-while-in-loop-executing-other-code/41643837
 import time
 import datetime
 from threading import Thread,Lock
